@@ -6,6 +6,7 @@ def soltion():
         n, m = input().split()
         n = int(n)
         m = int(m)
+
         mArr = [[int(x) for x in input().split()] for y in range(n)]#이차원배열 쉽게 하기
         realAnswer = 0
         if n == m:
