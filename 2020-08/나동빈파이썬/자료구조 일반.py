@@ -31,7 +31,7 @@ def queueFun():
     print(queue)#리스트로 출력
 #38 57 52 26
 
-
+   
 
 
 
