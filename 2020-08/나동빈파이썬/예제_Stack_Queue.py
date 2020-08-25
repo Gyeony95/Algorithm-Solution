@@ -29,15 +29,11 @@ def queueFun():
     print(queue)#역순 출력
     list(queue)#리스트로 바꿈
     print(queue)#리스트로 출력
-#38 57 52 26
-
-   
 
 
+graph = [[] for _ in range(3)]
 
-
-
-
+print(graph)
 
 
 
