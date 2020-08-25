@@ -1,71 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/삼성ExpertAcademy/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_간단한369게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_간단한369게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_간단한압축풀기.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_간단한압축풀기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_날짜계산기.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_날짜계산기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_두개의숫자열.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_두개의숫자열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_백만장자프로젝트.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_백만장자프로젝트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_숫자를정렬하자.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_숫자를정렬하자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_숫자배열회전.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_숫자배열회전.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_쉬운거스름돈.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_쉬운거스름돈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_스도쿠검증.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_스도쿠검증.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_시각덧셈.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_시각덧셈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_어디에단어가들어갈수있을까.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_어디에단어가들어갈수있을까.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_조교의성적매기기.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_조교의성적매기기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_중간평균값구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_중간평균값구하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_지그재그숫자.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_지그재그숫자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_초심자의회문검사.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_초심자의회문검사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_파리퇴치.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_파리퇴치.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_파스칼의삼각형.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_파스칼의삼각형.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성ExpertAcademy/삼성ExpertAcademy_패턴마디의길이.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_패턴마디의길이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_BFS_미로탈출.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_BFS_미로탈출2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_DFS_음료수얼려먹기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/프로그래머스/프로그래머스_Level1_보물지도.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_간단한369게임.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_간단한압축풀기.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_날짜계산기.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_두개의숫자열.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_숫자배열회전.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,60 +52,76 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2215" />
-    <option name="y" value="147" />
-    <option name="width" value="1152" />
-    <option name="height" value="620" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="삼성ExpertAcademy" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1gbHPoZBwoxh0qvkv8SOlzM5nN6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_project" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2020-08/나동빈파이썬" />
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D3" />
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Python.동빈나_BFS_미로탈출2">
+    <configuration name="동빈나_BFS_미로탈출2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_BFS_미로탈출2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="동빈나_DFS_음료수얼려먹기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_DFS_음료수얼려먹기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Python.동빈나_BFS_미로탈출2" />
+        <item itemvalue="Python.동빈나_DFS_음료수얼려먹기" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -154,59 +135,41 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D3/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D3/삼성ExpertAcademy_다솔이의월급상자.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_간단한369게임.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_간단한압축풀기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_날짜계산기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_두개의숫자열.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/D2/삼성ExpertAcademy_숫자배열회전.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/삼성ExpertAcademy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/프로그래머스/프로그래머스_Level1_보물지도.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="2071" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598376430037">
+      <screen x="1680" y="23" width="1854" height="1057" />
+    </state>
+    <state x="2071" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1598376430037" />
+    <state width="1833" height="185" key="GridCell.Tab.0.bottom" timestamp="1598382947357">
+      <screen x="0" y="23" width="1854" height="1057" />
+    </state>
+    <state width="1833" height="185" key="GridCell.Tab.0.bottom/0.23.1854.1057@0.23.1854.1057" timestamp="1598382947357" />
+    <state width="1833" height="185" key="GridCell.Tab.0.center" timestamp="1598382947356">
+      <screen x="0" y="23" width="1854" height="1057" />
+    </state>
+    <state width="1833" height="185" key="GridCell.Tab.0.center/0.23.1854.1057@0.23.1854.1057" timestamp="1598382947356" />
+    <state width="1833" height="185" key="GridCell.Tab.0.left" timestamp="1598382947356">
+      <screen x="0" y="23" width="1854" height="1057" />
+    </state>
+    <state width="1833" height="185" key="GridCell.Tab.0.left/0.23.1854.1057@0.23.1854.1057" timestamp="1598382947356" />
+    <state width="1833" height="185" key="GridCell.Tab.0.right" timestamp="1598382947357">
+      <screen x="0" y="23" width="1854" height="1057" />
+    </state>
+    <state width="1833" height="185" key="GridCell.Tab.0.right/0.23.1854.1057@0.23.1854.1057" timestamp="1598382947357" />
+    <state x="634" y="140" width="586" height="822" key="find.popup" timestamp="1598377819667">
+      <screen x="0" y="23" width="1854" height="1057" />
+    </state>
+    <state x="634" y="140" width="586" height="822" key="find.popup/0.23.1854.1057@0.23.1854.1057" timestamp="1598377819667" />
   </component>
 </project>
