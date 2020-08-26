@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/예제_정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_두 배열의 원소 교체.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_두 배열의 원소 교체2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_성적이 낮은 순서로 학생 출력하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_위에서아래로.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,16 +61,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2020-08/나동빈파이썬" />
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D3" />
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.예제_정렬">
+  <component name="RunManager" selected="Python.동빈나_정렬_두 배열의 원소 교체">
     <configuration name="예제_정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="동빈나_DFS_음료수얼려먹기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="동빈나_정렬_성적이 낮은 순서로 학생 출력하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +125,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_DFS_음료수얼려먹기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_성적이 낮은 순서로 학생 출력하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="동빈나_정렬_두 배열의 원소 교체" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_두 배열의 원소 교체.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="동빈나_정렬_위에서아래로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_위에서아래로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,9 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.동빈나_정렬_두 배열의 원소 교체" />
+        <item itemvalue="Python.동빈나_정렬_성적이 낮은 순서로 학생 출력하기" />
+        <item itemvalue="Python.동빈나_정렬_위에서아래로" />
         <item itemvalue="Python.예제_정렬" />
         <item itemvalue="Python.동빈나_BFS_미로탈출2" />
-        <item itemvalue="Python.동빈나_DFS_음료수얼려먹기" />
       </list>
     </recent_temporary>
   </component>
@@ -170,26 +217,26 @@
       <screen x="1680" y="23" width="1854" height="1057" />
     </state>
     <state x="2071" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1598376430037" />
-    <state width="916" height="191" key="GridCell.Tab.0.bottom" timestamp="1598473724510">
+    <state width="916" height="322" key="GridCell.Tab.0.bottom" timestamp="1598477559572">
       <screen x="0" y="23" width="1854" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.bottom/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327960" />
-    <state width="916" height="191" key="GridCell.Tab.0.bottom/0.23.1854.1057@0.23.1854.1057" timestamp="1598473724510" />
-    <state width="916" height="191" key="GridCell.Tab.0.center" timestamp="1598473724508">
+    <state width="916" height="322" key="GridCell.Tab.0.bottom/0.23.1854.1057@0.23.1854.1057" timestamp="1598477559572" />
+    <state width="916" height="322" key="GridCell.Tab.0.center" timestamp="1598477559571">
       <screen x="0" y="23" width="1854" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.center/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327960" />
-    <state width="916" height="191" key="GridCell.Tab.0.center/0.23.1854.1057@0.23.1854.1057" timestamp="1598473724508" />
-    <state width="916" height="191" key="GridCell.Tab.0.left" timestamp="1598473724508">
+    <state width="916" height="322" key="GridCell.Tab.0.center/0.23.1854.1057@0.23.1854.1057" timestamp="1598477559571" />
+    <state width="916" height="322" key="GridCell.Tab.0.left" timestamp="1598477559571">
       <screen x="0" y="23" width="1854" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.left/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327959" />
-    <state width="916" height="191" key="GridCell.Tab.0.left/0.23.1854.1057@0.23.1854.1057" timestamp="1598473724508" />
-    <state width="916" height="191" key="GridCell.Tab.0.right" timestamp="1598473724509">
+    <state width="916" height="322" key="GridCell.Tab.0.left/0.23.1854.1057@0.23.1854.1057" timestamp="1598477559571" />
+    <state width="916" height="322" key="GridCell.Tab.0.right" timestamp="1598477559572">
       <screen x="0" y="23" width="1854" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.right/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327960" />
-    <state width="916" height="191" key="GridCell.Tab.0.right/0.23.1854.1057@0.23.1854.1057" timestamp="1598473724509" />
+    <state width="916" height="322" key="GridCell.Tab.0.right/0.23.1854.1057@0.23.1854.1057" timestamp="1598477559572" />
     <state x="634" y="140" width="586" height="822" key="find.popup" timestamp="1598377819667">
       <screen x="0" y="23" width="1854" height="1057" />
     </state>
