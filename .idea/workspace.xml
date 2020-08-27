@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_두 배열의 원소 교체.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_두 배열의 원소 교체2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_성적이 낮은 순서로 학생 출력하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_정렬_위에서아래로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/예제_순차탐색.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
