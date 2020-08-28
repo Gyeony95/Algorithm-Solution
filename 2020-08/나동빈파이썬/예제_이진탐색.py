@@ -1,3 +1,5 @@
+import sys
+
 #재귀함수를 이용한 이진탐색
 def binary_search1(arr, target, start, end):
     if start > end:
@@ -38,4 +40,9 @@ if result == None:
     print('원소 없음')
 else:
     print(result + 1)
+
+
+
+#입력값이 엄청 많을때는 이렇게, rstrip은 줄바꿈을 없애기 위한 코드
+inpu_data = sys.stdin.readline().rstrip()
 
