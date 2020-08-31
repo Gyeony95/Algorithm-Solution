@@ -22,3 +22,4 @@ def solution(n, computers):
             answer += 1
         i += 1
     return answer
+   
