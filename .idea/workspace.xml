@@ -20,6 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level2_문자열압축.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level2_문자열압축2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level3_자물쇠와 열쇠.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level3_자물쇠와 열쇠2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_DFSBFS_Level3_네트워크.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_DFSBFS_Level3_네트워크.py" afterDir="false" />
     </list>
@@ -55,43 +59,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020-08/프로그래머스" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/2020-08/나동빈파이썬" />
       <recent name="$PROJECT_DIR$/2020-08/프로그래머스" />
+      <recent name="$PROJECT_DIR$/2020-08/나동빈파이썬" />
       <recent name="$PROJECT_DIR$/2020-08/백준" />
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D3" />
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.동빈나_구현_럭키 스트레이트">
-    <configuration name="동빈나_구현_럭키 스트레이트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_구현_럭키 스트레이트.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.프로그래머스_카카오_Level3_자물쇠와 열쇠2">
     <configuration name="동빈나_구현_문자열 재정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="동빈나_이진탐색_정렬된 배열에서 특정 수의 개수 구하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="동빈나_구현_럭키 스트레이트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,28 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_이진탐색_정렬된 배열에서 특정 수의 개수 구하기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="백준_이분탐색_10815_숫자카드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/백준" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/백준/백준_이분탐색_10815_숫자카드.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_구현_럭키 스트레이트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,12 +138,96 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="프로그래머스_카카오_Level1_문자열압축" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/프로그래머스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level1_문자열압축.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="프로그래머스_카카오_Level2_문자열압축2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/프로그래머스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level2_문자열압축2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="프로그래머스_카카오_Level3_자물쇠와 열쇠2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/프로그래머스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level3_자물쇠와 열쇠2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="프로그래머스_카카오_Level3_자물쇠와 열쇠" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/프로그래머스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level3_자물쇠와 열쇠.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.프로그래머스_카카오_Level3_자물쇠와 열쇠2" />
+        <item itemvalue="Python.프로그래머스_카카오_Level3_자물쇠와 열쇠" />
+        <item itemvalue="Python.프로그래머스_카카오_Level2_문자열압축2" />
         <item itemvalue="Python.동빈나_구현_럭키 스트레이트" />
-        <item itemvalue="Python.동빈나_이진탐색_정렬된 배열에서 특정 수의 개수 구하기" />
-        <item itemvalue="Python.백준_이분탐색_1654_랜선 자르기" />
-        <item itemvalue="Python.백준_이분탐색_10815_숫자카드" />
       </list>
     </recent_temporary>
   </component>
@@ -216,38 +262,42 @@
       <screen x="1680" y="23" width="1854" height="1057" />
     </state>
     <state x="2071" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1598376430037" />
-    <state width="916" height="358" key="GridCell.Tab.0.bottom" timestamp="1598776178241">
-      <screen x="0" y="23" width="1854" height="1057" />
+    <state width="945" height="461" key="GridCell.Tab.0.bottom" timestamp="1598909469794">
+      <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.bottom/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327960" />
     <state width="915" height="358" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598648426593" />
     <state width="914" height="322" key="GridCell.Tab.0.bottom/0.23.1851.1057@0.23.1851.1057" timestamp="1598644131396" />
     <state width="916" height="358" key="GridCell.Tab.0.bottom/0.23.1854.1057@0.23.1854.1057" timestamp="1598776178241" />
     <state width="915" height="288" key="GridCell.Tab.0.bottom/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1598728472976" />
-    <state width="916" height="358" key="GridCell.Tab.0.center" timestamp="1598776178239">
-      <screen x="0" y="23" width="1854" height="1057" />
+    <state width="945" height="461" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598909469794" />
+    <state width="945" height="461" key="GridCell.Tab.0.center" timestamp="1598909469793">
+      <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.center/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327960" />
     <state width="915" height="358" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598648426592" />
     <state width="914" height="322" key="GridCell.Tab.0.center/0.23.1851.1057@0.23.1851.1057" timestamp="1598644131395" />
     <state width="916" height="358" key="GridCell.Tab.0.center/0.23.1854.1057@0.23.1854.1057" timestamp="1598776178239" />
     <state width="915" height="288" key="GridCell.Tab.0.center/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1598728472974" />
-    <state width="916" height="358" key="GridCell.Tab.0.left" timestamp="1598776178238">
-      <screen x="0" y="23" width="1854" height="1057" />
+    <state width="945" height="461" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598909469793" />
+    <state width="945" height="461" key="GridCell.Tab.0.left" timestamp="1598909469792">
+      <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.left/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327959" />
     <state width="915" height="358" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598648426592" />
     <state width="914" height="322" key="GridCell.Tab.0.left/0.23.1851.1057@0.23.1851.1057" timestamp="1598644131394" />
     <state width="916" height="358" key="GridCell.Tab.0.left/0.23.1854.1057@0.23.1854.1057" timestamp="1598776178238" />
     <state width="915" height="288" key="GridCell.Tab.0.left/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1598728472974" />
-    <state width="916" height="358" key="GridCell.Tab.0.right" timestamp="1598776178240">
-      <screen x="0" y="23" width="1854" height="1057" />
+    <state width="945" height="461" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598909469792" />
+    <state width="945" height="461" key="GridCell.Tab.0.right" timestamp="1598909469793">
+      <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.right/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327960" />
     <state width="915" height="358" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598648426593" />
     <state width="914" height="322" key="GridCell.Tab.0.right/0.23.1851.1057@0.23.1851.1057" timestamp="1598644131395" />
     <state width="916" height="358" key="GridCell.Tab.0.right/0.23.1854.1057@0.23.1854.1057" timestamp="1598776178240" />
     <state width="915" height="288" key="GridCell.Tab.0.right/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1598728472975" />
+    <state width="945" height="461" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598909469793" />
     <state width="916" height="358" key="GridCell.Tab.1.bottom" timestamp="1598776178244">
       <screen x="0" y="23" width="1854" height="1057" />
     </state>
@@ -284,10 +334,11 @@
       <screen x="0" y="23" width="1854" height="1057" />
     </state>
     <state x="634" y="140" width="586" height="822" key="find.popup/0.23.1854.1057@0.23.1854.1057" timestamp="1598377819667" />
-    <state x="591" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1598640125086">
-      <screen x="0" y="23" width="1851" height="1057" />
+    <state x="2293" y="258" width="695" height="676" key="search.everywhere.popup" timestamp="1598904163788">
+      <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="591" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1851.1057@0.23.1851.1057" timestamp="1598640125086" />
     <state x="592" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1854.1057@0.23.1854.1057" timestamp="1598472691125" />
+    <state x="2293" y="258" width="695" height="676" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598904163788" />
   </component>
 </project>
