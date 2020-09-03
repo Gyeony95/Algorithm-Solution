@@ -7,7 +7,7 @@ def solution(key, lock):
             new_lock[i+n][j+n] = lock[i][j]
 
     for rotation in range(4):
-        key = rotate_90(key)
+        key = rotate(key)
         for x in range(n*2):
             for y in range(n*2):
                 for i in range(m):
@@ -30,6 +30,15 @@ def rotate_90(m):
         for c in range(N):
             ret[c][N-1-r] = m[r][c]
     return ret
+
+def rotate(a):
+    n = len(a)
+    m = len(a[0])
+    result = [[0]* n for _ in range(m)]
+    for i in range(n):
+        for j in range(m):
+            result[j][n - i - 1] = a[i][j]
+    return result
 
 def check(new_lock):
     lock_lenth = len(new_lock)//3
