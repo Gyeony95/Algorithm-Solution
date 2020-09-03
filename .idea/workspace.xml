@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_BFS_특정 거리의 도시 찾기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_BFS_특정 거리의 도시 찾기2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_DFS_연구소.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level3_자물쇠와 열쇠.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level3_자물쇠와 열쇠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level3_자물쇠와 열쇠2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level3_자물쇠와 열쇠2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_BFS_특정 거리의 도시 찾기2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_BFS_특정 거리의 도시 찾기2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +71,7 @@
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.동빈나_BFS_특정 거리의 도시 찾기2">
+  <component name="RunManager" selected="Python.동빈나_DFS_연구소">
     <configuration name="동빈나_BFS_특정 거리의 도시 찾기2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,6 +114,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="동빈나_DFS_연구소" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_DFS_연구소.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="동빈나_구현_문자열 재정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,27 +148,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/나동빈파이썬/동빈나_구현_문자열 재정렬.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="프로그래머스_카카오_Level2_문자열압축2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2020-08/프로그래머스" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020-08/프로그래머스/프로그래머스_카카오_Level2_문자열압축2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.동빈나_DFS_연구소" />
         <item itemvalue="Python.동빈나_BFS_특정 거리의 도시 찾기2" />
         <item itemvalue="Python.동빈나_BFS_특정 거리의 도시 찾기" />
         <item itemvalue="Python.프로그래머스_카카오_Level3_자물쇠와 열쇠" />
         <item itemvalue="Python.프로그래머스_카카오_Level3_자물쇠와 열쇠2" />
-        <item itemvalue="Python.프로그래머스_카카오_Level2_문자열압축2" />
       </list>
     </recent_temporary>
   </component>
@@ -242,41 +239,45 @@
       <screen x="1680" y="23" width="1854" height="1057" />
     </state>
     <state x="2071" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1598376430037" />
-    <state width="912" height="374" key="GridCell.Tab.0.bottom" timestamp="1599115966005">
-      <screen x="1680" y="23" width="1854" height="1057" />
+    <state width="912" height="374" key="GridCell.Tab.0.bottom" timestamp="1599149305440">
+      <screen x="1680" y="23" width="1856" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.bottom/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327960" />
     <state width="915" height="358" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598648426593" />
     <state width="914" height="322" key="GridCell.Tab.0.bottom/0.23.1851.1057@0.23.1851.1057" timestamp="1598644131396" />
     <state width="916" height="358" key="GridCell.Tab.0.bottom/0.23.1854.1057@0.23.1854.1057" timestamp="1598776178241" />
     <state width="912" height="374" key="GridCell.Tab.0.bottom/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1599115966005" />
+    <state width="912" height="374" key="GridCell.Tab.0.bottom/1680.23.1856.1057/0.23.1680.1027@1680.23.1856.1057" timestamp="1599149305440" />
     <state width="945" height="461" key="GridCell.Tab.0.bottom/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598909469794" />
-    <state width="912" height="374" key="GridCell.Tab.0.center" timestamp="1599115966004">
-      <screen x="1680" y="23" width="1854" height="1057" />
+    <state width="912" height="374" key="GridCell.Tab.0.center" timestamp="1599149305440">
+      <screen x="1680" y="23" width="1856" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.center/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327960" />
     <state width="915" height="358" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598648426592" />
     <state width="914" height="322" key="GridCell.Tab.0.center/0.23.1851.1057@0.23.1851.1057" timestamp="1598644131395" />
     <state width="916" height="358" key="GridCell.Tab.0.center/0.23.1854.1057@0.23.1854.1057" timestamp="1598776178239" />
     <state width="912" height="374" key="GridCell.Tab.0.center/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1599115966004" />
+    <state width="912" height="374" key="GridCell.Tab.0.center/1680.23.1856.1057/0.23.1680.1027@1680.23.1856.1057" timestamp="1599149305440" />
     <state width="945" height="461" key="GridCell.Tab.0.center/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598909469793" />
-    <state width="912" height="374" key="GridCell.Tab.0.left" timestamp="1599115966003">
-      <screen x="1680" y="23" width="1854" height="1057" />
+    <state width="912" height="374" key="GridCell.Tab.0.left" timestamp="1599149305439">
+      <screen x="1680" y="23" width="1856" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.left/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327959" />
     <state width="915" height="358" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598648426592" />
     <state width="914" height="322" key="GridCell.Tab.0.left/0.23.1851.1057@0.23.1851.1057" timestamp="1598644131394" />
     <state width="916" height="358" key="GridCell.Tab.0.left/0.23.1854.1057@0.23.1854.1057" timestamp="1598776178238" />
     <state width="912" height="374" key="GridCell.Tab.0.left/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1599115966003" />
+    <state width="912" height="374" key="GridCell.Tab.0.left/1680.23.1856.1057/0.23.1680.1027@1680.23.1856.1057" timestamp="1599149305439" />
     <state width="945" height="461" key="GridCell.Tab.0.left/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598909469792" />
-    <state width="912" height="374" key="GridCell.Tab.0.right" timestamp="1599115966004">
-      <screen x="1680" y="23" width="1854" height="1057" />
+    <state width="912" height="374" key="GridCell.Tab.0.right" timestamp="1599149305440">
+      <screen x="1680" y="23" width="1856" height="1057" />
     </state>
     <state width="1659" height="185" key="GridCell.Tab.0.right/0.23.1615.1027@0.23.1615.1027" timestamp="1598383327960" />
     <state width="915" height="358" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598648426593" />
     <state width="914" height="322" key="GridCell.Tab.0.right/0.23.1851.1057@0.23.1851.1057" timestamp="1598644131395" />
     <state width="916" height="358" key="GridCell.Tab.0.right/0.23.1854.1057@0.23.1854.1057" timestamp="1598776178240" />
     <state width="912" height="374" key="GridCell.Tab.0.right/1680.23.1854.1057/0.23.1680.1027@1680.23.1854.1057" timestamp="1599115966004" />
+    <state width="912" height="374" key="GridCell.Tab.0.right/1680.23.1856.1057/0.23.1680.1027@1680.23.1856.1057" timestamp="1599149305440" />
     <state width="945" height="461" key="GridCell.Tab.0.right/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598909469793" />
     <state width="916" height="358" key="GridCell.Tab.1.bottom" timestamp="1598776178244">
       <screen x="0" y="23" width="1854" height="1057" />
