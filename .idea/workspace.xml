@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020-09/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020-09/나동빈파이썬/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020-09/백준/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2020-09/프로그래머스/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-09/나동빈파이썬/예제_최단거리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
