@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020-09/나동빈파이썬/예제_최단거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-09/나동빈파이썬/예제_최단거리(개선된 다익스트라 알고리즘).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020-09/나동빈파이썬/예제_최단거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/2020-09/나동빈파이썬/예제_최단거리(다익스트라 알고리즘).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,19 +56,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020-08/나동빈파이썬" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020-09/나동빈파이썬" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2020-09/나동빈파이썬" />
       <recent name="$PROJECT_DIR$/2020-08/나동빈파이썬" />
       <recent name="$PROJECT_DIR$/2020-08/프로그래머스" />
       <recent name="$PROJECT_DIR$/2020-08/백준" />
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D3" />
-      <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
     </key>
   </component>
   <component name="RunManager" selected="Python.동빈나_DFS_연구소">
@@ -318,11 +319,12 @@
       <screen x="0" y="23" width="1854" height="1057" />
     </state>
     <state x="634" y="140" width="586" height="822" key="find.popup/0.23.1854.1057@0.23.1854.1057" timestamp="1598377819667" />
-    <state x="2293" y="258" width="695" height="676" key="search.everywhere.popup" timestamp="1598904163788">
-      <screen x="1680" y="23" width="1920" height="1057" />
+    <state x="594" y="258" width="673" height="676" key="search.everywhere.popup" timestamp="1599417053229">
+      <screen x="0" y="23" width="1859" height="1057" />
     </state>
     <state x="591" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1851.1057@0.23.1851.1057" timestamp="1598640125086" />
     <state x="592" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1854.1057@0.23.1854.1057" timestamp="1598472691125" />
+    <state x="594" y="258" width="673" height="676" key="search.everywhere.popup/0.23.1859.1057@0.23.1859.1057" timestamp="1599417053229" />
     <state x="2293" y="258" width="695" height="676" key="search.everywhere.popup/1680.23.1920.1057/0.23.1680.952@1680.23.1920.1057" timestamp="1598904163788" />
   </component>
 </project>
