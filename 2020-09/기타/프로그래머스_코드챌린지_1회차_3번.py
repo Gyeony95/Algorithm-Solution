@@ -47,5 +47,5 @@ def dfs(arr, chance):
                     arr1.pop(j)
                     dfs(arr1, False)
 
-
+  
 print(solution([-16,27,65,-2,58,-92,-71,-68,-61,-33]))
