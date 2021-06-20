@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_상하좌우.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_시각.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-06/나동빈파이썬/그리디_1이될때까지.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2021-06/나동빈파이썬/그리디_숫자카드게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_개임개발_모범답안.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_게임개발.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_왕실의나이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_왕실의나이트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_왕실의나이트_모범답안.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_왕실의나이트_모범답안.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021-06/프로그래머스/스택큐_level2_기능개발.py" beforeDir="false" afterPath="$PROJECT_DIR$/2021-06/프로그래머스/스택큐_level2_기능개발.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.구현_시각">
+  <component name="RunManager" selected="Python.구현_개임개발_모범답안">
     <configuration name="그리디_숫자카드게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,6 +111,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-06/나동빈파이썬/그리디_1이될때까지.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="구현_게임개발" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-06/나동빈파이썬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_게임개발.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="구현_왕실의나이트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-06/나동빈파이썬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_왕실의나이트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="baekjoon_7568_덩치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="구현_개임개발_모범답안" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +211,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-06/백준" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-06/나동빈파이썬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-06/백준/baekjoon_7568_덩치.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-06/나동빈파이썬/구현_개임개발_모범답안.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="스택큐_level2_기능개발" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-06/프로그래머스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-06/프로그래머스/스택큐_level2_기능개발.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.구현_시각" />
-        <item itemvalue="Python.구현_상하좌우" />
+        <item itemvalue="Python.구현_개임개발_모범답안" />
+        <item itemvalue="Python.구현_게임개발" />
+        <item itemvalue="Python.스택큐_level2_기능개발" />
         <item itemvalue="Python.그리디_1이될때까지" />
         <item itemvalue="Python.그리디_숫자카드게임" />
-        <item itemvalue="Python.baekjoon_7568_덩치" />
       </list>
     </recent_temporary>
   </component>
