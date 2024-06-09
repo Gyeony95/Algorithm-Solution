@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="그리디">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2024-06/프로그래머스/12906_같은 숫자는 싫어_Lv1_스택큐_내풀이.py" afterDir="false" />
+    <list default="true" id="08f028bf-1e69-4991-898c-e7e40f7bcc6e" name="Default Changelist" comment="스택큐">
+      <change afterPath="$PROJECT_DIR$/2024-06/프로그래머스/86491_최소직사각형_Lv1_완전탐색_내풀이.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,14 +65,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/gwongihyeon/Algorism/2024-06/프로그래머스"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gwongihyeon/Algorism/2024-06/프로그래머스&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2024-06/프로그래머스" />
@@ -90,7 +89,7 @@
       <recent name="C:\Users\rlg11\algorithm\삼성ExpertAcademy\D2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12906_같은 숫자는 싫어_Lv1_스택큐_내풀이">
+  <component name="RunManager" selected="Python.86491_최소직사각형_Lv1_완전탐색_내풀이">
     <configuration name="12906_같은 숫자는 싫어_Lv1_스택큐_내풀이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,27 +103,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2024-06/프로그래머스/12906_같은 숫자는 싫어_Lv1_스택큐_내풀이.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="181188_요격시스템_Lv2_내풀이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2024-06/프로그래머스" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2024-06/프로그래머스/181188_요격시스템_Lv2_내풀이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="이진탐색_부품찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="86491_최소직사각형_Lv1_완전탐색_내풀이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2021-06/나동빈파이썬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2024-06/프로그래머스" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2021-06/나동빈파이썬/이진탐색_부품찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2024-06/프로그래머스/86491_최소직사각형_Lv1_완전탐색_내풀이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.86491_최소직사각형_Lv1_완전탐색_내풀이" />
         <item itemvalue="Python.12906_같은 숫자는 싫어_Lv1_스택큐_내풀이" />
         <item itemvalue="Python.42576_완주하지 못한  선수_Lv1_해시_내풀이" />
         <item itemvalue="Python.42882_큰수만들기_Lv2_그리디_내풀이" />
         <item itemvalue="Python.42860_조이스틱_Lv2_그리디_내풀이" />
-        <item itemvalue="Python.181188_요격시스템_Lv2_내풀이" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1717687175770</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="스택큐">
+      <created>1717913293690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717913293690</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,7 +339,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="요격시스템" />
     <MESSAGE value="그리디" />
-    <option name="LAST_COMMIT_MESSAGE" value="그리디" />
+    <MESSAGE value="스택큐" />
+    <option name="LAST_COMMIT_MESSAGE" value="스택큐" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
